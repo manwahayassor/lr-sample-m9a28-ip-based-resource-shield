@@ -1,0 +1,3 @@
+Bundle-Name: LR Sample M9A28 IP Based Ressource Shield
+Bundle-SymbolicName: com.liferay.sample.m9a28.security.ip.filter.impl
+Bundle-Version: 1.0.0
